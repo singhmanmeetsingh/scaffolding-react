@@ -2,14 +2,12 @@
 
 This project has been created using **webpack-cli**, you can now run
 
-```
+To create a production build 
+...
 npm run build
-```
+...
 
-or
-
+To serve the application
 ```
-yarn build
+npm run serve
 ```
-
-to bundle your application
