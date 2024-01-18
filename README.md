@@ -2,6 +2,7 @@
 
 This project has been created using **webpack-cli**, you can now run
 
+
 To create a production build 
 
 ```
@@ -13,3 +14,6 @@ To serve the application
 ```
 npm run serve
 ```
+
+
+ps:use webpack-init to create a webpack.config.js file really saves time
